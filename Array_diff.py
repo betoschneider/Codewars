@@ -9,11 +9,7 @@ Created on Thu Aug 18 07:38:42 2022
 
 def array_diff(a, b):
     #your code here
-    diff = []
-    for i in a:
-        if i not in b:
-            diff.append(i)
-    return diff
+    return [x for x in a if x not in b]
 
 
 if __name__ == '__main__':
