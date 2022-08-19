@@ -4,6 +4,7 @@ Created on Fri Aug 19 17:21:05 2022
 
 @author: Roberto Schneider
 """
+#link do desafio: https://www.codewars.com/kata/526571aae218b8ee490006f4
 
 #solução do desafio
 def count_bits(n):

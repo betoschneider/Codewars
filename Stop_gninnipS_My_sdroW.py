@@ -5,6 +5,7 @@ Created on Fri Aug 19 16:51:55 2022
 @author: Roberto Schneider
 """
 
+#link do desafio: https://www.codewars.com/kata/5264d2b162488dc400000001
 
 def spin_words(sentence):
     # Your code goes here
